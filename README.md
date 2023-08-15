@@ -11,7 +11,7 @@ After that run with:
 if anyone have some questions or suggestions then hit me up on tg, im also looking for work, custom stuff like tokens , contracts, networks etc.
 
 
-oh and also if anyone want to throw some donation then my address is 
+oh and donations are very welcome , anything helps development
 >0x4673bB013Fb9d0d2585003b94B837b25F6dFd57d
 
 
