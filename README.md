@@ -8,7 +8,11 @@ After that run with:
 >python3 ElonVsMark-Tests.py
 
 
-if anyone have some questions or suggestions then hit me up on tg 
+if anyone have some questions or suggestions then hit me up on tg, im also looking for work, custom stuff like tokens , contracts, networks etc.
+
+
 oh and also if anyone want to throw some donation then my address is 
 >0x4673bB013Fb9d0d2585003b94B837b25F6dFd57d
+
+
 on pretty much every evm chain :)
