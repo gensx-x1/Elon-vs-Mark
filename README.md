@@ -8,4 +8,5 @@ Deploy contract using remix and add contract address to settings
 After that run with:
 >python3 ElonVsMark-Tests.py
 
-Rest is self-explanatory I guess 🤷
+
+if anyone have some questions or suggestions then hit me up on tg 
