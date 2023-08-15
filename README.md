@@ -9,3 +9,6 @@ After that run with:
 
 
 if anyone have some questions or suggestions then hit me up on tg 
+oh and also if anyone want to throw some donation then my address is 
+>0x4673bB013Fb9d0d2585003b94B837b25F6dFd57d
+on pretty much every evm chain :)
