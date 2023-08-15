@@ -1,7 +1,5 @@
 # Elon-vs-Mark
-I've wanted to play around with solidity so I've made this.
-It's mostly for fun on testnets but it should work on every evm chain.
-On deploy this contract create two tokens(teamElon, teamMark) which are later minted for wallet that is making a bet, 1 token per bet. 
+I've been curious about experimenting with Solidity, so I created this project. While primarily intended for fun on testnets, it's designed to function on any EVM-compatible chain. Upon deployment, the contract generates two tokens, 'teamElon' and 'teamMark,' which are subsequently minted to the wallet placing a bet – one token per bet.
 
 Edit settings file before using(don't use any of your wallets, make a completely new wallet).
 Deploy contract using remix and add contract address to settings 
